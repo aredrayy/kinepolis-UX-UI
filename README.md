@@ -14,7 +14,7 @@ Login Screen             |  Home Screen          |  Seat Selection
 
 ## Old Interface:
 
-<img src="[https://kinepolis.lu/fr/sites/kinepolis.lu.fr/files/app_screens2.jpg](https://kinepolis.lu/fr/sites/kinepolis.lu.fr/files/app_screens2.jpg)" alt="image" width="auto" height="500px">
+<img src="https://i.ibb.co/YcD327B/app-screens2.png" alt="image" width="auto" height="500px">
 
 ## Help + Features
 
