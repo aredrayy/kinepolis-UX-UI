@@ -12,7 +12,7 @@ Login Screen             |  Home Screen          |  Seat Selection
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://i.ibb.co/8PsDL0t/Screenshot-4.jpg" alt="image" width="auto" height="500px">  |  <img src="https://i.ibb.co/JRKDYQp/Screenshot-5.jpg" alt="image" width="auto" height="500px">  |  <img src="https://i.ibb.co/Ypc7Sqc/Screenshot-6.jpg" alt="image" width="auto" height="500px">
 
-## Old Interface:
+## Current Interface:
 
 <img src="https://i.ibb.co/YcD327B/app-screens2.png" alt="image" width="auto" height="500px">
 
@@ -47,5 +47,5 @@ https://www.figma.com/file/hbFA8ZtPOxNNAhF26RBlBU/Kinepolis?type=design&node-id=
 ## Authors
 
 * 👑・aredray
-* twitter: [@aredray](https://twitter.com/aredray)
+* Twitter: [@aredray](https://twitter.com/aredray)
 * YouTube: [@aredray](https://www.youtube.com/@aredray)
