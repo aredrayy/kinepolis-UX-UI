@@ -10,7 +10,7 @@
 
 Login Screen             |  Home Screen          |  Seat Selection
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://i.ibb.co/DYgGH7x/Login.png" alt="image" width="auto" height="500px">  |  <img src="https://i.ibb.co/c6nv9Ky/Main-Page.png" alt="image" width="auto" height="500px">  |  <img src="https://i.ibb.co/DYgGH7x/Login.png" alt="image" width="auto" height="500px">
+<img src="https://i.ibb.co/DYgGH7x/Login.png" alt="image" width="auto" height="500px">  |  <img src="https://i.ibb.co/c6nv9Ky/Main-Page.png" alt="image" width="auto" height="500px">  |  <img src="https://i.ibb.co/fQkGFfV/Places-Left.png" alt="image" width="auto" height="500px">
 
 ## Current Interface:
 
